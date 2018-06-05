@@ -1,0 +1,13 @@
+package geb
+
+modules    = Data.MIU.Types
+           , Data.MIU.Views
+           , Data.MIU.Rules
+
+author     = Eric Bailey
+
+homepage   = https://github.com/yurrriq/geb
+
+sourcedir  = src
+
+opts       = "--total"
